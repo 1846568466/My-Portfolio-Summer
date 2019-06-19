@@ -1,0 +1,38 @@
+.container {
+    width: 500px;
+  }
+  .block {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    margin-right: -4px;
+    margin-top: -4px;
+    border-radius: 80px;
+  }
+  #red {
+    background-color: red;
+  }
+  #orange {
+    background-color: orange;
+  }
+  #yellow {
+    background-color: yellow;
+  }
+  #green {
+    background-color: green;
+  }
+  #blue {
+    background-color: blue;
+  }
+  #indigo {
+    background-color: indigo;
+  }
+  #violet {
+    background-color: violet;
+  }
+  #gray {
+    background-color: gray;
+  }
+  #black {
+    background-color: black;
+  }
